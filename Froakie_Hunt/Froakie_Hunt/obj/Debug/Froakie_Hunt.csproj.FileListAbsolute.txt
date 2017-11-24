@@ -1,0 +1,10 @@
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\bin\Debug\Froakie_Hunt.exe.config
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\bin\Debug\Froakie_Hunt.exe
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\bin\Debug\Froakie_Hunt.pdb
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\obj\Debug\Froakie_Hunt.csprojResolveAssemblyReference.cache
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\obj\Debug\Froakie_Hunt.Form1.resources
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\obj\Debug\Froakie_Hunt.Properties.Resources.resources
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\obj\Debug\Froakie_Hunt.csproj.GenerateResource.Cache
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\obj\Debug\Froakie_Hunt.csproj.CoreCompileInputs.cache
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\obj\Debug\Froakie_Hunt.exe
+C:\Users\STATHIS\source\repos\Froakie_Hunt\Froakie_Hunt\obj\Debug\Froakie_Hunt.pdb

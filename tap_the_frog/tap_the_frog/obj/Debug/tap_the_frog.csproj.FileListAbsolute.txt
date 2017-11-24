@@ -1,0 +1,10 @@
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\bin\Debug\tap_the_frog.exe.config
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\bin\Debug\tap_the_frog.exe
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\bin\Debug\tap_the_frog.pdb
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\obj\Debug\tap_the_frog.csprojResolveAssemblyReference.cache
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\obj\Debug\tap_the_frog.Form1.resources
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\obj\Debug\tap_the_frog.Properties.Resources.resources
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\obj\Debug\tap_the_frog.csproj.GenerateResource.Cache
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\obj\Debug\tap_the_frog.csproj.CoreCompileInputs.cache
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\obj\Debug\tap_the_frog.exe
+C:\Users\xristos\source\repos\tap_the_frog\tap_the_frog\obj\Debug\tap_the_frog.pdb
